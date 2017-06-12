@@ -9,7 +9,7 @@ If you made it to this page, it means you're probably a candidate for [Axxes](ht
 3. Write a program that sorts the list in alphabetical order (first on lastname, then on firstname).
 4. Write a program that prints every object to system out.
 
-# BONUS
+# BONUS
 
 5. Extend program 3, but print the entries in random order.
 6. Extend again, this time making the program multithreaded. 
